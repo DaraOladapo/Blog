@@ -3,6 +3,8 @@ layout: post
 title:  "A long time ago..."
 date:   2022-11-17 22:14:16 +0000
 categories: personal update
+image: ./blog-assets/dara-oladapo.jpg
+author: Dara Oladapo
 ---
 
 ![Dara Oladapo](./blog-assets/dara-oladapo.jpg)
