@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Demo - Freelancer were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://daraoladapo.com/stg_34b49
+Data file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/uploads/2023/11/demo-content-import-file_2023-11-10__07-41-48.xml
+Widget file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-10__07-41-48.json
+Customizer file = not defined!
+Redux files:
+definity_options -> /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/uploads/2023/11/demo-redux-import-file_0-2023-11-10__07-41-48.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: definity_options finished successfully!
+
+---ocdi/after_import---
+ Sliders imported.

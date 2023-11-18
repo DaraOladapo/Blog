@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Import Akordian were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://daraoladapo.com/stg_34b49
+Data file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/themes/akordian/sample-data/contents-demo.xml
+Widget file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/themes/akordian/sample-data/widget-settings.json
+Customizer file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/themes/akordian/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+ Recent Posts - No Title - Imported
+Text - Text Widget - Imported
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+ Recent Posts - No Title - Widget already exists
+Text - Text Widget - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
