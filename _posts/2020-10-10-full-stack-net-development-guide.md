@@ -1,12 +1,9 @@
 ---
-
 title: 'Full stack .NET Development Guide'
 date: '2020-10-10T06:27:00+01:00'
 author: Dara Oladapo
 excerpt: 'Many folks have been asking me why I remain a .NET Developer with all buzz and popularity around other ecosystems, languages, and frameworks especially among my peers. My answer to them is and has remained that .NET is a pretty solid ecosystem and well so far, have not failed me yet.'
-
 permalink: /2020/10/10/full-stack-net-development-guide/
-
 categories:
     - 'Software Development'
 tags:

@@ -1,12 +1,9 @@
 ---
-
 title: 'Reflections towards a major milestone'
 date: '2021-06-28T08:00:00+01:00'
 author: Dara Oladapo
 excerpt: 'I am grateful for God – yes. He is the source of everything I am and all I do. All I do is to promote his goodness and bring others to the light of salvation through Jesus Christ.'
-
 permalink: /2021/06/28/reflections-towards-a-major-milestone/
-
 categories:
     - General
 ---

@@ -1,12 +1,9 @@
 ---
-
 title: 'My first MVP Award'
 date: '2021-06-20T19:39:00+01:00'
 author: Dara Oladapo
 excerpt: 'The Microsoft MVP Award looks to find individuals who make active contribution to the community of the technology they use every day. Let me paint it this way – I am a programmer who loves C#, I teach C#, I make videos and blog posts about C#, I contribute to C# docs, forums and events, I give conference talks on C#, Microsoft or another MVP sees the things I do and recommends me for the award.'
-
 permalink: /2021/06/20/my-first-mvp-award/
-
 categories:
     - Community
 tags:

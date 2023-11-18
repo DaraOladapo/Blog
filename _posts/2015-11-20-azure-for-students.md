@@ -1,12 +1,9 @@
 ---
-
 title: 'Azure for Students'
 date: '2015-11-20T12:19:00+00:00'
 author: Dara Oladapo
 excerpt: 'Cloud Computing also known as on-demand computing, is a kind of internet-based computing, where shared resources and information are provided to computers and other devices on-demand.'
-
 permalink: /2015/11/20/azure-for-students/
-
 categories:
     - General
 ---

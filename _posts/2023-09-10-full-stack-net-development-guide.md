@@ -1,12 +1,9 @@
 ---
-
 title: 'Full stack .NET Development Guide'
 date: '2023-09-10T19:20:00+01:00'
 author: Dara Oladapo
 excerpt: "In this post, my goal is to give you a little bit of guide into how you can be a .NET Developer focused on C#.\n\nI have been a C# myself for a little over 10 years at the time of writing this post, so I can say I have a bit of 2-cents here and there to give. Let us dive right in, shall we?"
-
 permalink: /2023/09/10/full-stack-net-development-guide-2/
-
 categories:
     - 'Software Development'
 ---

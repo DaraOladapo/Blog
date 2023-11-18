@@ -1,12 +1,9 @@
 ---
-
 title: 'DevSecOps – What is it all about?'
 date: '2023-10-30T10:54:19+00:00'
 author: Dara Oladapo
 excerpt: 'When you start thinking about security from the onset, your coding style, testing, deployment tasks become fool proof and you would experience less incidents from attacks.'
-
 permalink: /2023/10/30/devsecops-what-is-it-all-about/
-
 categories:
     - DevOps
 tags:

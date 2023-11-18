@@ -1,12 +1,9 @@
 ---
-
 title: '10 years a Saxophonist'
 date: '2020-01-01T07:32:00+00:00'
 author: Dara Oladapo
 excerpt: 'It was more like a stroke of luck for me starting to play. I remember my brother (Olusesan) coming home that Sunday in August 2009 and telling me “Dara, we just got a saxophone in church, would you like to play”. I had been playing the recorder for about 2 years (self-taught) then and had no clue how to play the saxophone.'
-
 permalink: /2020/01/01/10-years-a-saxophonist/
-
 categories:
     - General
 ---

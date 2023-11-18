@@ -1,12 +1,9 @@
 ---
-
 title: 'My First NUGET Package'
 date: '2020-05-05T07:28:00+01:00'
 author: Dara Oladapo
 excerpt: 'Let me bring you up to speed on one of them. As you know I’m a developer. “Copy and Paste” is one of those things we developers do a lot. I realized I have been doing some repetitive Copy and Paste of the same bundle of code over the last 2 years, so I decided to package that up and make it available primarily for myself and then to other developers.'
-
 permalink: /2020/05/05/my-first-nuget-package/
-
 categories:
     - General
 ---

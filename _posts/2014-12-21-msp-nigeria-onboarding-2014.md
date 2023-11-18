@@ -1,12 +1,9 @@
 ---
-
 title: 'MSP Nigeria Onboarding 2014'
 date: '2014-12-21T15:15:00+00:00'
 author: Dara Oladapo
 excerpt: 'It was the MSP Nigeria Onboarding event for 2014. In case you’re curious MSP stands for Microsoft Student Partners. This is a group of smart young individuals who are passionate about technology and have influence to pass their knowledge on to others in many ways. Sincerely, these are one of the coolest set of people you can be friends with.'
-
 permalink: /2014/12/21/msp-nigeria-onboarding-2014/
-
 categories:
     - General
     - 'News and Updates'

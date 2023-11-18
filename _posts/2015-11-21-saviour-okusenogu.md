@@ -1,12 +1,9 @@
 ---
-
 title: 'Saviour Okusenogu'
 date: '2015-11-21T14:45:00+00:00'
 author: Dara Oladapo
 excerpt: 'So I decided to be part of this change in any small way. I made up my mind that I want to learn how to talk with computers. So I happened to get in touch with MSPs in my school and It was fun at first learning a programming language and understand Windows '
-
 permalink: /2015/11/21/saviour-okusenogu/
-
 categories:
     - Community
 ---

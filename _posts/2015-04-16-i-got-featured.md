@@ -1,12 +1,9 @@
 ---
-
 title: 'I got featured'
 date: '2015-04-16T11:26:00+01:00'
 author: Dara Oladapo
 excerpt: 'In 2002, Dara Oladapo walked with his two older brothers to the local cybercafé in Ibadan, Nigeria. The three boys went to the café intending to open a joint email account. There, Dara’s brother taught him how to hold the mouse, click on the screen and navigate around Windows.'
-
 permalink: /2015/04/16/i-got-featured/
-
 categories:
     - 'News and Updates'
 ---

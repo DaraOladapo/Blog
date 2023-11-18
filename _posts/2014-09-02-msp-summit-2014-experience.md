@@ -1,12 +1,9 @@
 ---
-
 title: 'MSP Summit 2014 Experience'
 date: '2014-09-02T14:43:00+01:00'
 author: Dara Oladapo
 excerpt: 'The MSP Summit was held alongside the Microsoft Imagine Cup (IC) World Finals of which we witnessed the grand-finale and awards presentation. There were sessions upon sessions, Q and A. And yeah, I saw my favorite Senior Technical Evangelist LIVE-Jaime Rodriguez amongst many others I have been following through their lessons on Channel 9, Microsoft Virtual Academy and Social Media.'
-
 permalink: /2014/09/02/msp-summit-2014-experience/
-
 categories:
     - 'News and Updates'
 ---

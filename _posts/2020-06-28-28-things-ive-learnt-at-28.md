@@ -1,14 +1,9 @@
 ---
-
 title: '28 things I’ve learnt at 28'
 date: '2020-06-28T00:00:00+01:00'
 author: Dara Oladapo
 excerpt: 'There’s a lot that I’ve been through over those years and learnt and had good memories and some not-so-good ones. This year especially has changed my perspective on a lot of things about life, love, friendships, growth, work, and lots more.'
-
 permalink: /2020/06/28/28-things-ive-learnt-at-28/
-footnotes:
-    - ''
-
 categories:
     - General
 tags:
