@@ -15,7 +15,6 @@ ruby -r rubygems -e 'require "jekyll-import";JekyllImport::Importers::WordpressD
 ```
 
 ```plaintext
-jekyll import rss --source "https://blog.daraoladapo.com/feed/" --target "./_posts" --assets_folder "./blog-assets"
-
+jekyll import rss --source "https://blog.daraoladapo.com/feed/"
 gem install gemName -v gemVersion
 ```
