@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Theme demo data were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://blog.daraoladapo.com
+Data file = /customers/2/d/4/daraoladapo.com/httpd.www/blog/wp-content/themes/onecom-publisher/importer/content.xml
+Widget file = /customers/2/d/4/daraoladapo.com/httpd.www/blog/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-17__20-27-48.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Recent Posts - No Title - Imported
+Text - About - Imported
+Image - Picture of the day - Imported
+Gallery - Gallery - Imported
+Calendar - Calendar - Imported
+
+Header : 
+
+Search - No Title - Imported
+
+Footer 1 : 
+
+Text - About Express Blog - Imported
+
+Footer 2 : 
+
+Gallery - Gallery - Imported
+
+Footer 3 : 
+
+Text - Get in Touch - Imported
+Social Icons - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
