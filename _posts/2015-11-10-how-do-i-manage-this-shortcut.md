@@ -2,7 +2,7 @@
 id: 577
 title: 'How do I manage this shortcut?'
 date: '2015-11-10T06:21:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: "Many a times, people come up to me asking me to help use the antivirus software on my system to help them clear the “shortcut virus” that affects them. I say “No problem”.\n\nI have been familiar with this kind of malware since around 2011 on my HP Probook 4515s (story for another day). Back then, I would use the antivirus software to scan such viruses.\n\nWell, many times, the “virus” goes away, but once it’s in the device owner’s PC, problem starts again. This has even made some of my friends “format their laptops”-well I did that for my brother also."
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=577'
@@ -51,7 +51,7 @@ The steps are simple – I guess-after some practice.
 
 To make your files visible, you need to enable some system folder settings called **FOLDER OPTIONS**
 
-**![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-1.png)**
+**![](./blog-assets/2023/11/word-image-577-1.png)**
 
 This is where you need to be, now how do we get there?
 
@@ -72,47 +72,47 @@ This is where you need to be, now how do we get there?
 
 1. Go to your Start Menu and type FOLDER OPTIONS
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-2.png)
+![](./blog-assets/2023/11/word-image-577-2.png)
 
 1. Select FILE EXPLORER OPTIONS
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-3.png)
+![](./blog-assets/2023/11/word-image-577-3.png)
 
 ## Step 2
 
 You should see something like this (depending on your Operating System). You only need to go to the second tab.
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-4.png)
+![](./blog-assets/2023/11/word-image-577-4.png)
 
 Now on the second tab
 
-**![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-5.png)**
+**![](./blog-assets/2023/11/word-image-577-5.png)**
 
 Check the box that says “Show hidden files and folders”
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-6.png)
+![](./blog-assets/2023/11/word-image-577-6.png)
 
 Then scroll down a bit to and **un-check “Hide Protected Operating System Files”**
 
-**![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-7.png)**
+**![](./blog-assets/2023/11/word-image-577-7.png)**
 
 Click “Yes”
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-8.png)
+![](./blog-assets/2023/11/word-image-577-8.png)
 
 Then, click “Apply”
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-9.png)
+![](./blog-assets/2023/11/word-image-577-9.png)
 
 When you do this, you should see the files show up, I’ll just use my desktop as an example.
 
 Before
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-10-e1699600350247-292x300.png)
+![](./blog-assets/2023/11/word-image-577-10-e1699600350247-292x300.png)
 
 After
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-11-e1699600408412-293x300.png)
+![](./blog-assets/2023/11/word-image-577-11-e1699600408412-293x300.png)
 
 # Make them whole again
 
@@ -120,7 +120,7 @@ Now, this is what I do. You may have a better way of doing it.
 
 I have a file copy software called “Super Copier”, you can search for it and download it. By default, the software removes file security attributes when copying (except you tamper with its settings).
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-577-12.png)
+![](./blog-assets/2023/11/word-image-577-12.png)
 
 That’s what the interface looks like when copying (I use the 2.2 beta version-coz I kinda prefer it)
 

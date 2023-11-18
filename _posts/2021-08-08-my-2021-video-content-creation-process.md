@@ -2,7 +2,7 @@
 id: 339
 title: 'My 2021 Video Content Creation Process'
 date: '2021-08-08T10:47:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'As you may know, I make videos on YouTube (and TikTok) and I stream (although that has been on break for a while). A lot of my contacts have asked me how I make the videos and how I manage to be consistent. I hope to share answers to the first of the question in this blog post. In coming posts, I will write about consistency among other content promotion strategies. Let’s get started.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=339'

@@ -2,7 +2,7 @@
 id: 330
 title: 'I automated my mornings'
 date: '2020-04-10T17:09:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'I tried using some of the social automation apps and I just could not imagine paying such an amount every month to have my posts scheduled to go out every morning. Then I thought – I can code, I have the cloud, I have the content. Why not write a few lines of code to do this for you. Let me show you how.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=330'
@@ -77,23 +77,23 @@ Now, all I need to do is get this up in the cloud to be hosted and connect the t
 
 Next step for me was to get the HTTP response body – which is a link to one of my videos and then I tweet it and post it to LinkedIn.
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-330-1.png)
+![](./blog-assets/2023/11/word-image-330-1.png)
 
 Image : Azure Logic Apps Visual Designer
 
 ### The result
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-330-2.png)
+![](./blog-assets/2023/11/word-image-330-2.png)
 
 Image : Azure Logic Apps Logs
 
 Azure Logic Apps takes a log of every run that happens, so you can see how that progresses whether it runs successfully or fails.
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-330-3.png)
+![](./blog-assets/2023/11/word-image-330-3.png)
 
 Image : Tweet on October 4
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-330-4.png)
+![](./blog-assets/2023/11/word-image-330-4.png)
 
 Image : LinkedIn Post on October 4
 

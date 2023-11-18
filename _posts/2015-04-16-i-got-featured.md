@@ -2,7 +2,7 @@
 id: 362
 title: 'I got featured'
 date: '2015-04-16T11:26:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'In 2002, Dara Oladapo walked with his two older brothers to the local cybercafé in Ibadan, Nigeria. The three boys went to the café intending to open a joint email account. There, Dara’s brother taught him how to hold the mouse, click on the screen and navigate around Windows.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=362'
@@ -15,7 +15,7 @@ categories:
 
 Copied from the [Microsoft Student Developer Blog](http://bit.ly/mspDara)
 
-![http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-64-67/0285.Dara-1.jpg](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/http-blogs-msdn-com-resized-image-ashx-__size-55.jpeg)
+![http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-64-67/0285.Dara-1.jpg](./blog-assets/2023/11/http-blogs-msdn-com-resized-image-ashx-__size-55.jpeg)
 
 | *Dara Oladapo, Microsoft Student Partner from Nigeria* |
 |---|
@@ -40,7 +40,7 @@ How did he go from tinkerer to techie? Dara is truly a self-made man. “I serio
 
 To teach himself tech and coding, Dara takes advantage of the many free [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/training-topics/app-development) courses that cover areas such as HTML5 application development fundamentals and developing apps for Windows Phone and the Windows Store. Today, Dara has numerous apps in the Windows Phone Store, many focused on his homeland of Nigeria, including [TribesAndLocation](http://www.windowsphone.com/en-us/store/app/tribesandlocation/764e8e25-0507-4c51-8bfc-75430206f92c), [political parties](http://www.windowsphone.com/en-us/store/app/political-parties/93c64432-323e-4660-92aa-913423dd0d3c), [Road Safety](http://www.windowsphone.com/en-us/store/app/road-safety/b9cc4377-4532-4bd7-8235-20d4b18e3b4a), [NAFDAC](http://www.windowsphone.com/en-us/store/app/nafdac/b8f600c0-cc1a-48f8-842d-909d3b6b8649) (Nigeria’s food and drug regulatory agency) and [my9ja](http://www.windowsphone.com/en-us/store/app/my9ja/7d6c6c43-be6b-4bd3-8b09-f6e82e77f56b) (an app focused on Nigeria’s culture and history.)
 
-![http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-64-67/3465.Capture.PNG](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/http-blogs-msdn-com-resized-image-ashx-__size-55.png)
+![http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-64-67/3465.Capture.PNG](./blog-assets/2023/11/http-blogs-msdn-com-resized-image-ashx-__size-55.png)
 
 | *Dara’s app, “My9Ja” is one of 10 available in the Windows Phone Store. “My9Ja” educates users on Nigeria’s culture and history.* |
 |---|
@@ -49,7 +49,7 @@ Now in his final year at The Federal University of Technology, in Akure, Nigeria
 
 A member of three national Imagine Cup finalist teams and winner of seven national software competitions (including the 2013 winner of the [national Nigerian software competition](https://www.futa.edu.ng/futacms/newspage.php?newsid=161)), Dara now focuses on teaching himself ASP.NET and Office 365 Development and updating his Windows Phone apps in the Windows Phone Store.
 
-![http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-64-67/8284.Dara-2.jpg](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/http-blogs-msdn-com-resized-image-ashx-__size-55-1.jpeg)
+![http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-64-67/8284.Dara-2.jpg](./blog-assets/2023/11/http-blogs-msdn-com-resized-image-ashx-__size-55-1.jpeg)
 
 | *Dara’s team, Team Eagle, accept their first place trophy at the 2013 annual Nigerian software competition. Team Eagle (Aboluwarin Olaoluwa, Oladapo Oluwadara \[Dara Oladapo\] and Banjo Mofesola) won with ‘Enchanter,’ an app where contacts can exchange virtual greeting cards through their phones. (Also pictured: Professor Adebiyi Daramola and Dr. Kayode Alese)* |
 |---|

@@ -2,7 +2,7 @@
 id: 5149
 title: 'DevOps for Organizations'
 date: '2021-09-14T13:24:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: "It is no doubt that software and computers have come to be part of our everyday lives. There is an ever growing need to develop quality, efficient and robust solutions every day to meet the growing needs of customers.\n\nTo develop quality software that users love, there is the need to be agile and responsive to users’ feedback and support requests. Some of this responsiveness could be proactive or reactive."
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=171'
@@ -55,7 +55,7 @@ DevOps aims at shorted development lifecycle, increased deployment frequency and
 
 DevOps cuts across the different stages of software development and teams of stakeholders as it hinges on 3 main components: People, Process and Product.
 
-![Illustration showing stages in a DevOps toolchain](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/illustration-showing-stages-in-a-devops-toolchain.png)
+![Illustration showing stages in a DevOps toolchain](./blog-assets/2023/10/illustration-showing-stages-in-a-devops-toolchain.png)
 
 # The DevOps Toolchain
 
@@ -75,31 +75,31 @@ While there are numerous mechanisms for modelling DevOps one of the most effecti
 
 Below are some of the solution architectures scenarios for modelling DevOps (Microsoft DevOps):
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping.png)
 
 Continuous integration and deployment (CI/CD) for containers with open-source software (OSS)
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping-1.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping-1.png)
 
 Continuous deployment for Virtual Machines with Visual Studio Team Services
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping-2.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping-2.png)
 
 Container CI/CD using Jenkins and Kubernetes on Azure Container Service (AKS)
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping-3.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping-3.png)
 
 CI/CD for Azure Web Apps
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping-4.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping-4.png)
 
 Continuous integration and deployment (CI/CD) for containers with Visual Studio Team Services
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping-5.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping-5.png)
 
 Continuous integration and deployment (CI/CD) for Azure Web Apps with Visual Studio Team Services
 
-![Screen Clipping](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/screen-clipping-6.png)
+![Screen Clipping](./blog-assets/2023/10/screen-clipping-6.png)
 
 Immutable Infrastructure CI/CD using Jenkins and Terraform on Azure Virtual Architecture overview
 

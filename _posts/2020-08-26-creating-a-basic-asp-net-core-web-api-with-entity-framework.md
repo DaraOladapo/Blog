@@ -2,7 +2,7 @@
 id: 5145
 title: 'Creating a Basic ASP.NET Core Web API with Entity Framework'
 date: '2020-08-26T13:43:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'Hi friends, I published a new video on YouTube where you get to learn the basics of ASP.NET Core Web API Development'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=160'

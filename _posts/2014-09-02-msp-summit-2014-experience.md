@@ -2,7 +2,7 @@
 id: 453
 title: 'MSP Summit 2014 Experience'
 date: '2014-09-02T14:43:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'The MSP Summit was held alongside the Microsoft Imagine Cup (IC) World Finals of which we witnessed the grand-finale and awards presentation. There were sessions upon sessions, Q and A. And yeah, I saw my favorite Senior Technical Evangelist LIVE-Jaime Rodriguez amongst many others I have been following through their lessons on Channel 9, Microsoft Virtual Academy and Social Media.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=453'

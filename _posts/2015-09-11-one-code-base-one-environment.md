@@ -2,7 +2,7 @@
 id: 435
 title: 'One Code Base, One Environment'
 date: '2015-09-11T14:32:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: "At Microsoft BUILD 2015 Conference, Microsoft announced that with one code, you can deploy your apps to all devices on running Windows 10.\n\nThat includes the IoT Devices, Laptops, Tablets, Phones, Surface Hub and Hololens. Isn’t this exciting. And what you need to get started is available right away."
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=435'

@@ -2,7 +2,7 @@
 id: 429
 title: 'KitanDavid Olaoluwa Aboluwarin'
 date: '2018-11-09T12:28:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'Today I "co-run" Planet NEST (http://planetnest.org) a technology hub known famously for its DevCRIB (a one year training for coders and enthusiasts in the MEAN and LAMP stack). Our DevCRIB students get a 3 Million Naira scholarship to NEST for a year where training and accommodation is free after which they stand a chance of getting a high paying job in African Tech Industry.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=429'

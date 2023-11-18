@@ -2,7 +2,7 @@
 id: 350
 title: 'Give them a shot, be the luck'
 date: '2021-03-24T11:04:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'The best roles - haven''t they all been? - I have had till date are because of being given a chance to show what I am made of.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=350'

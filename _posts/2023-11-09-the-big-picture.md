@@ -2,7 +2,7 @@
 id: 327
 title: 'The Big Picture'
 date: '2023-11-09T10:34:45+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'Let me paint it this way – I can claim that I’m a self-learner of C# as it was not part of the topics I was taught in the university. But when I think a bit more about it, I would say I got resources from this website, that blog post, that tutorial somewhere. That is someone – maybe even more than one teaching me. So, I was not exactly self-taught, I was taught just outside the traditional medium – most times free. I was taught by that blog post, that video, that book.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=327'

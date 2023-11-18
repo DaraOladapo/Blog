@@ -2,7 +2,7 @@
 id: 5148
 title: 'My first MVP Award'
 date: '2021-06-20T19:39:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'The Microsoft MVP Award looks to find individuals who make active contribution to the community of the technology they use every day. Let me paint it this way – I am a programmer who loves C#, I teach C#, I make videos and blog posts about C#, I contribute to C# docs, forums and events, I give conference talks on C#, Microsoft or another MVP sees the things I do and recommends me for the award.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=164'
@@ -17,7 +17,7 @@ tags:
     - 'mvp buzz'
 ---
 
-![MVP Welcome Email Snippet](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/mvp-welcome-email-snippet.png)
+![MVP Welcome Email Snippet](./blog-assets/2023/10/mvp-welcome-email-snippet.png)
 
 # Intro
 
@@ -56,7 +56,7 @@ There are more benefits than I can mention as I am still discovering the benefit
 
 As the saying goes, the reward for good work is more work, the MVP award is not the end, it is a morale boost to do more. I would do more for the community – more videos, blog posts, talks, podcasts and docs and meetups.
 
-![MVP Award on desk picture](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/mvp-award-on-desk-picture.png)
+![MVP Award on desk picture](./blog-assets/2023/10/mvp-award-on-desk-picture.png)
 
 And now that I’m getting older, I am learning to balance time between community work, family and my actual 9-5. That means planning content rollout and positioning them to come out at the right time and meet community needs.
 

@@ -2,7 +2,7 @@
 id: 385
 title: 'Learning to Code'
 date: '2023-03-25T12:03:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: "I wouldn’t tell you one particular language to learn.\n\nWhat I’ll do is tell you some of the languages you can learn and find out about them and select your preferred choice (or choices)"
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=385'
@@ -13,7 +13,7 @@ categories:
     - General
 ---
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-385-1.jpeg)
+![](./blog-assets/2023/11/word-image-385-1.jpeg)
 
 In one of my most recent posts, I introduced you to the [\#HourOfCode](http://code.org).
 
@@ -63,4 +63,4 @@ But take a look at the infograph below
 
 From <http://www.best-infographics.com/programming-language-to-learn/>
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-385-2.png)
+![](./blog-assets/2023/11/word-image-385-2.png)

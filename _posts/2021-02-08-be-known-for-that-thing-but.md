@@ -2,7 +2,7 @@
 id: 322
 title: 'Be known for that thing, but'
 date: '2021-02-08T09:30:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'Why this story? My friends know I do Azure - a lot, of course plus coding and training. I do not know it all, but I know friends in the field who are experts in the various other services.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=322'

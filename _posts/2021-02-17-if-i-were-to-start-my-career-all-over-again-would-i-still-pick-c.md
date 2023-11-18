@@ -2,7 +2,7 @@
 id: 356
 title: 'If I were to start my career all over again, would I still pick C#?'
 date: '2021-02-17T11:19:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'I decided for C# sometime in November 2010 in my first year at the university studying computer science (you do not need a CS degree to be a programmer/developer/software engineer). Would I have picked Java? - maybe. I did a Java course in my third year and I loved it, but C# had already got my fancy by then. Java and C# are remarkably similar in the way they are structured.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=356'

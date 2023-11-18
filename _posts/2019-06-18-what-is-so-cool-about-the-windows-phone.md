@@ -2,7 +2,7 @@
 id: 389
 title: 'What is so cool about the Windows Phone?'
 date: '2019-06-18T12:09:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'I personally use a Nokia Lumia 610 presently; this is my first real smartphone. Being a low-end smartphone, there are some incompatibility issues though. But right now, it’s not about the device mainly, it’s about the platform'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=389'

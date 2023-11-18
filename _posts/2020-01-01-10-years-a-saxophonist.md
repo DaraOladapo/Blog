@@ -2,7 +2,7 @@
 id: 606
 title: '10 years a Saxophonist'
 date: '2020-01-01T07:32:00+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'It was more like a stroke of luck for me starting to play. I remember my brother (Olusesan) coming home that Sunday in August 2009 and telling me “Dara, we just got a saxophone in church, would you like to play”. I had been playing the recorder for about 2 years (self-taught) then and had no clue how to play the saxophone.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=606'
@@ -17,13 +17,13 @@ Last year November made it 10 years since I have been playing the saxophone.
 
 It was more like a stroke of luck for me starting to play. I remember my brother (Olusesan) coming home that Sunday in August 2009 and telling me “Dara, we just got a saxophone in church, would you like to play”. I had been playing the recorder for about 2 years (self-taught) then and had no clue how to play the saxophone. The following Monday, I enrolled in a music school (Tonic Solfa Music School).
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-606-1.jpeg)
+![](./blog-assets/2023/11/word-image-606-1.jpeg)
 
 Figure 1 First Sunday 2010
 
 In November 2009 for the first time, I held the Premier England Tenor Saxophone.
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-606-2.jpeg)
+![](./blog-assets/2023/11/word-image-606-2.jpeg)
 
 Figure 2: Ifeoluwa – My Alto Saxophone
 
@@ -31,7 +31,7 @@ Figure 2: Ifeoluwa – My Alto Saxophone
 
 ![A view of a city with tall buildings in the background
 
-Description automatically generated](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/a-view-of-a-city-with-tall-buildings-in-the-backgr.jpeg)
+Description automatically generated](./blog-assets/2023/11/a-view-of-a-city-with-tall-buildings-in-the-backgr.jpeg)
 
 Figure 4: Praise – My Soprano Saxophone
 

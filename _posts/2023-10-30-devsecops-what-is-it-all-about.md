@@ -2,7 +2,7 @@
 id: 5150
 title: 'DevSecOps – What is it all about?'
 date: '2023-10-30T10:54:19+00:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'When you start thinking about security from the onset, your coding style, testing, deployment tasks become fool proof and you would experience less incidents from attacks.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=181'
@@ -20,11 +20,11 @@ Let us talk about the intersection of Software Development, IT Operations and Se
 
 The usual DevOps cycle goes like below. Read about [DevOps for Organizations](https://daraoladapo.com/stg_34b49/devops-for-organizations/).
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/word-image-181-1.png)
+![](./blog-assets/2023/10/word-image-181-1.png)
 
 But as a growing concern, security needs to be baked into every stage of the DevOps process. In the process of automation, we do not want to leave gaps for attackers, we want to give the right kind of approvals for deployment so we can deliberately deliver secure solutions to end user.
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/10/word-image-181-2.png)
+![](./blog-assets/2023/10/word-image-181-2.png)
 
 When you start thinking about security from the onset, your coding style, testing, deployment tasks become fool proof and you would experience less incidents from attacks.
 

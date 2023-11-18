@@ -2,7 +2,7 @@
 id: 438
 title: 'My Favorite Tools'
 date: '2016-09-30T14:38:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: 'As a core developer, this has been my major tool as it is the first thing I install on any of my new machines or after a clean OS install. I have used from Visual Studio 2010 to Visual Studio 2015. I once had the setup Visual Studio 2005 and 2008.'
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=438'
@@ -25,7 +25,7 @@ A senior colleague once said
 
 Visual Studio is the World’s best IDE
 
-![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Visual-Studio.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Visual-Studio-2011.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-1.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Visual-Studio-2012.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-2.png)
+![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Visual-Studio.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Visual-Studio-2011.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-1.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Visual-Studio-2012.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-2.png)
 
 ## What I love about Visual Studio
 
@@ -64,7 +64,7 @@ For compatibility questions, click [here](http://www.visualstudio.com/en-us/prod
 
 # SyncFusion Metro Studio
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-438-4.png)
+![](./blog-assets/2023/11/word-image-438-4.png)
 
 This is another great tool I have grown to love. I use it do design icons for my programs and it has been a very cool tool for me to use over time.
 
@@ -74,7 +74,7 @@ It’s a free software, you can download from [SyncFusion Website](http://syncfu
 
 # Microsoft Office
 
-![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-Office-2013-03.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-3.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-Word-New.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-4.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-PowerPoint-2013.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-5.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-Excel-2013-01.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-6.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-OneNote-2013-01.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-7.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Lync.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-8.png)
+![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-Office-2013-03.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-3.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-Word-New.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-4.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-PowerPoint-2013.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-5.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-Excel-2013-01.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-6.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Microsoft-OneNote-2013-01.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-7.png) ![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Lync.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-8.png)
 
 This productivity tool from Microsoft has helped me a lot as a student, developer, trainer and geek.
 
@@ -95,7 +95,7 @@ You can download Microsoft Office from [Microsoft Office Portal](http://office.m
 
 # OneDrive
 
-![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Sky-Dive.png](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-9.png)
+![C:\Users\Dara\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Sky-Dive.png](./blog-assets/2023/11/c-users-dara-appdata-local-microsoft-windows-inet-9.png)
 
 For someone who has multiple devices, always on the move and loves productivity. OneDrive is a great tool for me to work on my files across all my devices.
 
@@ -109,7 +109,7 @@ This makes life easy and enhances my productivity.
 
 # Windows Phone
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-438-12.png)
+![](./blog-assets/2023/11/word-image-438-12.png)
 
 December 2012, I got my Nokia Lumia 610. I was happy at my very first Windows Phone. My goal for buying it was to ‘feel like a Windows Phone Developer’.
 

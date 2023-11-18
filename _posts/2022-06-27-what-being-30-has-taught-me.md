@@ -2,7 +2,7 @@
 id: 359
 title: 'What being 30 has taught me'
 date: '2022-06-27T11:22:00+01:00'
-author: Admin
+author: Dara Oladapo
 excerpt: "I have lived on this planet for three decades, and I can tell you that it has been a wonderful life so far. So first, cheers to the next 70+ years.\n\nBut that is not why I am writing this. I want to share with you some of the little things I have learnt in my 30 years of living and hope you learn and pick some things from them."
 layout: post
 guid: 'https://daraoladapo.com/stg_34b49/?p=359'

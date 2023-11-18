@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Import Aali were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://daraoladapo.com/stg_34b49
+Data file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/themes/aali/sample-data/contents-demo.xml
+Widget file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/themes/aali/sample-data/widget-settings.json
+Customizer file = /customers/2/d/4/daraoladapo.com/httpd.www/stg_34b49/wp-content/themes/aali/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+aali Search - No Title - Widget already exists
+aali Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer One Widget : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Two Widget : 
+
+Custom HTML - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
