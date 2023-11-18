@@ -1,14 +1,12 @@
 ---
-id: 392
+
 title: 'Cortana vs Siri'
 date: '2015-11-09T12:14:00+00:00'
 author: Dara Oladapo
 excerpt: 'I have been a Windows Phone lover since 2012 and I am so no ready to back out because it keeps getting interesting. Moreso, I love working with Microsoft tools and products. I showed a colleague a post I made in July while having fun with Cortana on my Lumia 535. Good for you all Cortana is being extended to Android-in extension Blackberry10.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=392'
+
 permalink: /2015/11/09/cortana-vs-siri/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - General
 ---

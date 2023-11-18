@@ -1,14 +1,12 @@
 ---
-id: 367
+
 title: 'Playing with Cortana'
 date: '2014-11-09T11:35:00+00:00'
 author: Dara Oladapo
 excerpt: 'Some few weeks back, I was bored and decided to toy with my Windows Phone – Cortana.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=367'
+
 permalink: /2014/11/09/playing-with-cortana/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - General
 ---

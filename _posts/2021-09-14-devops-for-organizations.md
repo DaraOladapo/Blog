@@ -1,14 +1,12 @@
 ---
-id: 5149
+
 title: 'DevOps for Organizations'
 date: '2021-09-14T13:24:00+01:00'
 author: Dara Oladapo
 excerpt: "It is no doubt that software and computers have come to be part of our everyday lives. There is an ever growing need to develop quality, efficient and robust solutions every day to meet the growing needs of customers.\n\nTo develop quality software that users love, there is the need to be agile and responsive to users’ feedback and support requests. Some of this responsiveness could be proactive or reactive."
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=171'
+
 permalink: /2021/09/14/devops-for-organizations/
-ekit_post_views_count:
-    - '12'
+
 categories:
     - DevOps
     - 'Software Development'

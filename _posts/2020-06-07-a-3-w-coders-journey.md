@@ -1,14 +1,12 @@
 ---
-id: 432
+
 title: 'A 3-W Coder’s Journey'
 date: '2020-06-07T12:35:00+01:00'
 author: Dara Oladapo
 excerpt: 'I can remember quite a bit when I decided to start learning to code in late 2010. It sounded quite fun to me. All I wanted to do since 2007 was just sit at the computers (as much as I could find) and explore anything I could lay my clicks on. It was fun for me saving up part of my daily allowance to go to the cyber-café to source for information I really don’t know about. I would save all I could on my small 1.45MB 3.5” diskette and run home happy so see the pages I had saved from the cyber-café.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=432'
+
 permalink: /2020/06/07/a-3-w-coders-journey/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - General
 ---

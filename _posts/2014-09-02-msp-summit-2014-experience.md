@@ -1,14 +1,12 @@
 ---
-id: 453
+
 title: 'MSP Summit 2014 Experience'
 date: '2014-09-02T14:43:00+01:00'
 author: Dara Oladapo
 excerpt: 'The MSP Summit was held alongside the Microsoft Imagine Cup (IC) World Finals of which we witnessed the grand-finale and awards presentation. There were sessions upon sessions, Q and A. And yeah, I saw my favorite Senior Technical Evangelist LIVE-Jaime Rodriguez amongst many others I have been following through their lessons on Channel 9, Microsoft Virtual Academy and Social Media.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=453'
+
 permalink: /2014/09/02/msp-summit-2014-experience/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - 'News and Updates'
 ---
@@ -31,7 +29,7 @@ I arrived at the University of Washington with Rahat from Bangladesh at about 2:
 
 More MSP arrived today, Imagine cup competitors are also coming in, registrations and breakfast. Settled into my room after breakfast to catch up on some work while the others had a tour of downtown Seattle. Later in the day we had a session with the Microsoft Chief Storyteller-[Steve Clayton](http://twitter.com/stevecla) in Kane Hall, University of Washington, where we were taught how to have a great demo. Highlights included having backups for your demos and presentations, proper timing ad practice.. We also had the opportunity to see the Skype Translate demo for WPC. Earlier on had met the Senior MSP Program Manager Worldwide- Scott Burmester. Yeah, he was bigger than I thought. He was the one in charge of the summit planning and execution. Settled in later for dinner.
 
-![](https://daraoladapo.com/stg_34b49/wp-content/uploads/2023/11/word-image-453-1.png)
+![](./blog-assets/2023/11/word-image-453-1.png)
 
 # Day 1
 
@@ -163,6 +161,5 @@ This was a Sunday and my day to leave U-Dub. I packed my bags and tidies up all 
 
 The MSP Summit and Imagine Cup was a great exposure for me. And the lessons learnt and friends made.
 
-Above all, I thank God for keeping me to experience this amazing time of my life. My family’s support can never go unappreciated. They have been the best support I have ever had in my life. And to my friends for believing me and not minding my geekiness at most times. And to Microsoft Corporation and all her staff involved in this trip.
-
+Above all, I thank God for keeping me to experience this amazing time of my life. My family’s support can never go unappreciated. They have been the best support I have ever had in my life. And to my friends for believing me and not minding my ge
 See y’all at the top!

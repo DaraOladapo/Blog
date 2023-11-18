@@ -1,14 +1,12 @@
 ---
-id: 385
+
 title: 'Learning to Code'
 date: '2023-03-25T12:03:00+00:00'
 author: Dara Oladapo
 excerpt: "I wouldn’t tell you one particular language to learn.\n\nWhat I’ll do is tell you some of the languages you can learn and find out about them and select your preferred choice (or choices)"
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=385'
+
 permalink: /2023/03/25/learning-to-code/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - General
 ---

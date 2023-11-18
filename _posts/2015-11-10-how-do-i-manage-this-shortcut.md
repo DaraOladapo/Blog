@@ -1,14 +1,12 @@
 ---
-id: 577
+
 title: 'How do I manage this shortcut?'
 date: '2015-11-10T06:21:00+00:00'
 author: Dara Oladapo
 excerpt: "Many a times, people come up to me asking me to help use the antivirus software on my system to help them clear the “shortcut virus” that affects them. I say “No problem”.\n\nI have been familiar with this kind of malware since around 2011 on my HP Probook 4515s (story for another day). Back then, I would use the antivirus software to scan such viruses.\n\nWell, many times, the “virus” goes away, but once it’s in the device owner’s PC, problem starts again. This has even made some of my friends “format their laptops”-well I did that for my brother also."
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=577'
+
 permalink: /2015/11/10/how-do-i-manage-this-shortcut/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - General
 ---

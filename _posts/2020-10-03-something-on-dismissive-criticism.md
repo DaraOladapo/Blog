@@ -1,13 +1,11 @@
 ---
-id: 345
+
 title: 'Something on dismissive criticism'
 date: '2020-10-03T10:58:00+01:00'
 author: Dara Oladapo
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=345'
+
 permalink: /2020/10/03/something-on-dismissive-criticism/
-ekit_post_views_count:
-    - '3'
+
 image: /wp-content/uploads/2018/06/lifestyle_622381814.jpeg
 categories:
     - General

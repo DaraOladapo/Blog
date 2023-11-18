@@ -1,14 +1,12 @@
 ---
-id: 347
+
 title: 'Grow from where you are'
 date: '2021-02-03T11:02:00+00:00'
 author: Dara Oladapo
 excerpt: 'I decided to grow, nonetheless. I was robbed of my first laptop in 2011 (read about the specs here), but still taught CSC101,102, 201, 202 to my peers and others from second semester of 100L till I graduated 4 years after.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=347'
+
 permalink: /2021/02/03/grow-from-where-you-are/
-ekit_post_views_count:
-    - '1'
+
 categories:
     - General
 ---

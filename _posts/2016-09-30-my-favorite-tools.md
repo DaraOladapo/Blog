@@ -1,14 +1,12 @@
 ---
-id: 438
+
 title: 'My Favorite Tools'
 date: '2016-09-30T14:38:00+01:00'
 author: Dara Oladapo
 excerpt: 'As a core developer, this has been my major tool as it is the first thing I install on any of my new machines or after a clean OS install. I have used from Visual Studio 2010 to Visual Studio 2015. I once had the setup Visual Studio 2005 and 2008.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=438'
+
 permalink: /2016/09/30/my-favorite-tools/
-ekit_post_views_count:
-    - '2'
+
 categories:
     - 'Software Development'
 ---

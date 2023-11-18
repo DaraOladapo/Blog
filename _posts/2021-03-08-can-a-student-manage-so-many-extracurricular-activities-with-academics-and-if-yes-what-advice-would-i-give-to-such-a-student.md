@@ -1,14 +1,12 @@
 ---
-id: 342
+
 title: 'Can a student manage so many extracurricular activities with academics and if yes, what advice would I give to such a student?'
 date: '2021-03-08T10:53:00+00:00'
 author: Dara Oladapo
 excerpt: 'During my time as a student in the university, I did a bit more than just be a student – I was a saxophonist at my school fellowship, a code tutor, a community leader and a top Microsoft Student Partner. Aside from all these, I was still attending software competitions and conferences throughout my stay at the university. You might want to ask me; how do you handle all this? how were your grades? how were you able to manage your time between all these activities?'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=342'
+
 permalink: /2021/03/08/can-a-student-manage-so-many-extracurricular-activities-with-academics-and-if-yes-what-advice-would-i-give-to-such-a-student/
-ekit_post_views_count:
-    - '1'
+
 categories:
     - General
 ---

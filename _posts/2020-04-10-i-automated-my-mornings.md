@@ -1,14 +1,12 @@
 ---
-id: 330
+
 title: 'I automated my mornings'
 date: '2020-04-10T17:09:00+01:00'
 author: Dara Oladapo
 excerpt: 'I tried using some of the social automation apps and I just could not imagine paying such an amount every month to have my posts scheduled to go out every morning. Then I thought – I can code, I have the cloud, I have the content. Why not write a few lines of code to do this for you. Let me show you how.'
-layout: post
-guid: 'https://daraoladapo.com/stg_34b49/?p=330'
+
 permalink: /2020/04/10/i-automated-my-mornings/
-ekit_post_views_count:
-    - '1'
+
 categories:
     - General
 ---
