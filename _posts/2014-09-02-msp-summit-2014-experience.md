@@ -165,5 +165,6 @@ This was a Sunday and my day to leave U-Dub. I packed my bags and tidies up all 
 
 The MSP Summit and Imagine Cup was a great exposure for me. And the lessons learnt and friends made.
 
-Above all, I thank God for keeping me to experience this amazing time of my life. My family’s support can never go unappreciated. They have been the best support I have ever had in my life. And to my friends for believing me and not minding my ge
+Above all, I thank God for keeping me to experience this amazing time of my life. My family’s support can never go unappreciated. They have been the best support I have ever had in my life. And to my friends for believing me and not minding my geekiness.
+
 See y’all at the top!

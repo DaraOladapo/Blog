@@ -8,7 +8,7 @@ categories:
     - General
 ---
 
-Microsoft Azure by definition is a cloud computing platform and infrastructure created by Microsoft for building, deploying and managing applications and services through a global network of Microsoft-managed and Microsoft partner hosted datacenters. (source: Wikipedia)
+Microsoft Azure by definition is a cloud computing platform and infrastructure created by Microsoft for building, deploying and managing applications and services through a global network of Microsoft-managed and Microsoft partner hosted data centers. (source: Wikipedia)
 
 # What Exactly is CLOUD?
 
