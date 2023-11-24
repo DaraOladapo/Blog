@@ -10,6 +10,8 @@ excerpt: ''
 
 permalink: '/2023/11/30/productivity-desk-setup/'
 
+image: ''
+
 categories:
     - 'Devices and Gadgets'
     
@@ -31,48 +33,53 @@ I have a sit-stand desk from a brand called `Flamaker` which I mostly use in sta
 
 Underneath the desk,  I have a `Cable Management Tray` from a brand called `Starttech.com` which helps me keep my cables tucked and also helps me move the desk around without having to worry about the cables getting tangled. I also have a couple of velcro straps, cable clips, and cable ties to help me keep the cables in place. To pass long cables between sitting and standing modes - because I have my desktop PC on the ground, I have a `Cable Management Sleeve` which helps me pass the cables through and clean. It's not the sweetest looking cable management, but it works for now.
 
-|  |  |
+| Key Point | Value/Comment |
 |----------|----------|
 |  Usability  | ⭐⭐⭐⭐☆ |
 |  In Use since  |  May 2023  |
-|  Cost |   ⭐⭐⭐☆☆ |
+|  Cost at purchase| £239.00 |
 |  Purchase Link (UK)  |   |
 |  Purchase Link (US)  |   |
+|  Personal Rating |  ⭐⭐⭐⭐☆ |
+
 
 ## Monitors
 
-For my display, I use a quad monitor setup that consists of 
-- 1 Philips 346B1C 34" Curved UltraWide Monitor: this is where I do most of work from coding to video editing, and any work that requires huge screen real estate. It supports HDMI, Display Port and USB-C display options. If you're using the USB-C option, you can extend your computer's IO with the additional 4 USB ports to the left side of the monitor. It also has a built-in KVM switch which allows you to connect two computers to the monitor and switch between them with the press of a button supporting Picture in Picture and Side-by-side modes for two connected computers. I use this monitor for my main work and it's great. I have it in the a little bit to the side of my desk for now It's a great monitor and I love it.
+For my display, I use a quad monitor setup that consists of:
 
-- Usability: ⭐⭐⭐⭐☆
-- In Use since: May 2023
-- Cost: ⭐⭐⭐☆☆
-- Link:
-    - UK: 
-    - US: 
-- 2 HP 24" FHD IPS Monitors:
-    - One in landscape mode for secondary or reference coding, viewing browser tabs, meetings, screen sharing (because you know, not everyone uses an ultra-wide) and links to the main work I am on.
-    - The other in a flipped portrait mode for reading and consuming mainly docs and references while working. Sometimes, i have my chat windows on there.
-- 1 EVICIV 16" Portable Monitor: This also serves as my mobile monitor whenever i'm on away from the house and need a secondary display. It's light, it's great and gets the job done for me.
+1 Philips 346B1C 34" Curved UltraWide Monitor: this is where I do most of work from coding to video editing, and any work that requires huge screen real estate. It supports HDMI, Display Port and USB-C display options. If you're using the USB-C option, you can extend your computer's IO with the additional 4 USB ports to the left side of the monitor. It also has a built-in KVM switch which allows you to connect two computers to the monitor and switch between them with the press of a button supporting Picture in Picture and Side-by-side modes for two connected computers. I use this monitor for my main work and it's great. I have it in the a little bit to the side of my desk for now It's a great monitor and I love it.
+
+| Key Point | Value/Comment |
+|----------|----------|
+|  Usability  | ⭐⭐⭐⭐☆ |
+|  In Use since  |  August 2023  |
+|  Cost at purchase|  £320.00 |
+|  Purchase Link (UK)  |   |
+|  Purchase Link (US)  |   |
+|  Personal Rating |  ⭐⭐⭐☆☆ | 
+
+
+2 HP 24" FHD IPS Monitors: One in landscape mode for secondary or reference coding, viewing browser tabs, meetings, screen sharing (because you know, not everyone uses an ultra-wide) and links to the main work I am on. 
+The other in a flipped portrait mode for reading and consuming mainly docs and references while working. Sometimes, i have my chat windows on there.
+
+| Key Point | Value/Comment |
+|----------|----------|
+|  Usability  | ⭐⭐⭐⭐⭐ |
+|  In Use since  |  September 2020  |
+|  Cost at purchase |   £110.00 each |
+|  Purchase Link (UK)  |   |
+|  Purchase Link (US)  |   |
+
+1 EVICIV 16" Portable Monitor: This also serves as my mobile monitor whenever i'm on away from the house and need a secondary display. It's light, it's great and gets the job done for me.
 When I'm doing code, cloud or DevOps work, I use it to display my terminals and other tools I need to get the job done. And when I'm doing video editing, I use it to display my assets folders, scripts and tasks.
 
-### Key Points
-
-HP 24" Monitor
-- Usability: ⭐⭐⭐⭐☆
-- In Use since: May 2023
-- Cost: ⭐⭐⭐☆☆
-- Link:
-    - UK: 
-    - US: 
-
-EVICIV 16" Portable Monitor
-- Usability: ⭐⭐⭐⭐☆
-- In Use since: May 2023
-- Cost: ⭐⭐⭐☆☆
-- Link:
-    - UK: 
-    - US: 
+| Key Point | Value/Comment |
+|----------|----------|
+|  Usability  | ⭐⭐⭐⭐☆ |
+|  In Use since  |  May 2023  |
+|  Cost at purchase|   £169.00 |
+|  Purchase Link (UK)  |   |
+|  Purchase Link (US)  |   |
 
 ## Monitor Arms
 3 of the 
