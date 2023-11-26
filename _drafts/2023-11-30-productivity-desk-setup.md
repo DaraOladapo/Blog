@@ -47,6 +47,8 @@ Underneath the desk,  I have a `Cable Management Tray` from a brand called `Star
 
 For my display, I use a quad monitor setup that consists of:
 
+![Philips 34 inch curved monitor](../_posts/blog-assets/2023/11/philips-34-inch-monitor.webp)
+
 1 Philips 346B1C 34" Curved UltraWide Monitor: this is where I do most of work from coding to video editing, and any work that requires huge screen real estate. It supports HDMI, Display Port and USB-C display options. If you're using the USB-C option, you can extend your computer's IO with the additional 4 USB ports to the left side of the monitor. It also has a built-in KVM switch which allows you to connect two computers to the monitor and switch between them with the press of a button supporting Picture in Picture and Side-by-side modes for two connected computers. I use this monitor for my main work and it's great. I have it in the a little bit to the side of my desk for now It's a great monitor and I love it.
 
 | Key Point | Value/Comment |
@@ -82,7 +84,20 @@ When I'm doing code, cloud or DevOps work, I use it to display my terminals and 
 |  Purchase Link (US)  |   |
 
 ## Monitor Arms
-3 of the 
+3 of the monitors on my desk are mounted up on 2 monitor arms to provide versatility of movement of adaptation for my setup.
+
+
+![Dell MSA 20 Monitor Arm](../_posts/blog-assets/2023/11/dell-msa20-monitor-arm.webp)
+
+The first one is the Dell MSA20 which holds the 34" Philips monitor and can hold up to 38" monitors. It has a great range of motion, a counter-balance system for heavy monitors and can be adjusted to any position I want. It also has a cable management grove in-built that helps me keep the cables in place. It's a great monitor arm and I love it so far since getting it.
+
+| Key Point | Value/Comment |
+|----------|----------|
+|  Usability  | ⭐⭐⭐⭐⭐ |
+|  In Use since  |  November 2023  |
+|  Cost at purchase|   £127.00 |
+|  Purchase Link (UK)  |   |
+|  Purchase Link (US)  |   |
 
 ## Laptop Stand
 
