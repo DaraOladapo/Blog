@@ -6,7 +6,7 @@ date: '2023-11-30T09:00:00+01:00'
 
 author: 'Dara Oladapo'
 
-excerpt: ''
+excerpt: 'A look at my productivity desk setup for 2024. I share the tools I use to get work done and how I use them.'
 
 permalink: '/2023/11/30/productivity-desk-setup/'
 
