@@ -30,7 +30,7 @@ permalink: /2023/12/08/revamp-your-workspace-with-the-x-central-monitor-stand-an
 
 If you work on a laptop or desktop computer, you know how important it is to have a good desk setup that's usable and ergonomic with your screens at the right height with enough space to work with. And of course, if you're someone who likes to keep things tidy, you'll want to have a good desk organizer to keep your desk clutter-free with easy access and power to your most used items. The X-Central Monitor Stand Space-Master Desk Organizer is a great solution for both of these needs, and I'll be telling you all about it in this review.
 
-[![Watch the full unboxing and review video.](../../_posts/blog-assets/2023/12/x-central.webp)](https://youtu.be/YKH_HWTEyFA "Revamped Ergonomic Workspace with the X-Central Monitor Stand")
+<!-- [![Watch the full unboxing and review video.](../../_posts/blog-assets/2023/12/x-central.webp)](https://youtu.be/YKH_HWTEyFA "Revamped Ergonomic Workspace with the X-Central Monitor Stand") -->
 
 ## What's in the box
 
