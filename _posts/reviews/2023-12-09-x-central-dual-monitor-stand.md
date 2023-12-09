@@ -2,7 +2,7 @@
 
 title: 'Revamp your workspace with the X-Central monitor stand and desk organizer'
 
-date: '2023-12-09T05:30:00+01:00'
+date: '2023-12-08T05:30:00+01:00'
 
 author: Dara Oladapo
 
