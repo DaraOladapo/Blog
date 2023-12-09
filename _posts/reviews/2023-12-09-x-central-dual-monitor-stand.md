@@ -9,22 +9,22 @@ author: Dara Oladapo
 excerpt: 'If you work on a laptop or desktop computer, you know how important it is to have a good desk setup that's usable and ergonomic with your screens at the right height with enough space to work with.'
 
 categories:
-  - 'Reviews'
+    - Reviews
 
 tags: 
-  - 'x-central'
-  - 'monitor stand'
-  - 'desk organizer'
-  - 'desk setup'
-  - 'workspace'
-  - 'ergonomic'
-  - 'desk accessories'
-  - 'x-central monitor stand'
-  - x-central monitor stand review'
+    - 'x-central'
+    - 'monitor stand'
+    - 'desk organizer'
+    - 'desk setup'
+    - 'workspace'
+    - 'ergonomic'
+    - 'desk accessories'
+    - 'x-central monitor stand'
+    - x-central monitor stand review'
 
 image: '../../_posts/blog-assets/2023/12/x-central.webp'
 
-permalink: '/reviews/revamp-your-workspace-with-the-x-central-monitor-stand-and-desk-organizer/'
+permalink: /2023/12/08/revamp-your-workspace-with-the-x-central-monitor-stand-and-desk-organizer/
     
 ---
 

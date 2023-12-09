@@ -44,15 +44,9 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  travel:
-    output: true
-    permalink: /:collection/:name
-  work:
+  general:
     output: true
     permalink: /:collection/:name
   reviews:
-    output: true
-    permalink: /:collection/:name
-  life:
     output: true
     permalink: /:collection/:name
