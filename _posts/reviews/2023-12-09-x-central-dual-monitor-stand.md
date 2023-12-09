@@ -25,6 +25,8 @@ tags:
 layout: post
 
 image: '../../_posts/blog-assets/2023/12/x-central.webp'
+
+permalink: '/reviews/revamp-your-workspace-with-the-x-central-monitor-stand-and-desk-organizer/'
     
 ---
 
