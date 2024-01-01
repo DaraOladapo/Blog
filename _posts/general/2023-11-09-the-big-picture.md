@@ -11,8 +11,7 @@ excerpt: 'Let me paint it this way – I can claim that I’m a self-learner of 
 categories:
     - General
 
-collection: general
-name: the-big-picture
+slug: the-big-picture
 ---
 
 While the concept of self-achievement/learning seems to be popular, I don’t exactly believe there is a self-learner of a particular skill – well, except it’s your discovery.
