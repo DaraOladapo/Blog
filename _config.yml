@@ -43,10 +43,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-collections:
-  general:
-    output: true
-    permalink: /:collection/:name
-  reviews:
-    output: true
-    permalink: /:collection/:name
+
+permalink: /:slug
