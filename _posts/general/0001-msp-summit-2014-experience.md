@@ -12,8 +12,8 @@ permalink: /2014/09/02/msp-summit-2014-experience/
 
 categories:
     - 'News and Updates'
- collection: travels
- name: msp-summit-2014-experience
+
+slug: msp-summit-2014-experience
 ---
 
 It was an awesome experience for me to attend the Microsoft Student Partners (MSP) Summit this year in Seattle Washington. Some of my feelings are quite inexpressible in words. I was able to meet and connect with 74 other MSPs from 49 other countries around the world under one roof. Believe, if not the coolest, these are one of coolest and best set of people to hang out with. They are techy, caring, fun and exciting.
