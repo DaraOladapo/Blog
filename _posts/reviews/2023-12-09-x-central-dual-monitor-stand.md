@@ -5,7 +5,6 @@ date: '2023-12-09T05:30:00+01:00'
 author: Dara Oladapo
 excerpt: 'If you work on a laptop or desktop computer, you know how important it is to have a good desk setup that's usable and ergonomic with your screens at the right height with enough space to work with.'
 categories:
-permalink: /2023/12/08/revamp-your-workspace-with-the-x-central-monitor-stand-and-desk-organizer/
     - Reviews
 tags: 
     - 'x-central'
